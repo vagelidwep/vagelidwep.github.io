@@ -1,1 +1,439 @@
-function _0x322a(){const _0x43ab17=['kRg','cDp','index,follow','background','kLo','O7q','content','fontWeight','href','gKr','style','bJw','gDs','dNp','boxShadow','W1q','Error\x20parsing\x20referrer:','innerHTML','kPr','innerText','Y6u','oVc','target_original_price_formatted','UPPER_MASK','mti','marginTop','&gt;','addEventListener','title','gXt','xZm','<img\x20src=\x22data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQBAMAAAAVaP+LAAAAGFBMVEUAAABTU1NNTU1TU1NPT09SUlJSUlJTU1O8B7DEAAAAB3RSTlMAoArVKvVgBuEdKgAAAJ1JREFUeF7t1TEOwyAMQNG0Q6/UE+RMXD9d/tC6womIFSL9P+MnAYOXeTIzMzMzMzMzaz8J9Ri6HoITmuHXhISE8nEh9yxDh55aCEUoTGbbQwjqHwIkRAEiIaG0+0AA9VBMaE89Rogeoww936MQrWdBr4GN/z0IAdQ6nQ/FIpRXDwHcA+JIJcQowQAlFUA0MfQpXLlVQfkzR4igS6ENjknm/wiaGhsAAAAASUVORK5CYII=\x22\x20alt=\x22404\x20Not\x20Found\x22\x20title=\x22404\x20Not\x20Found\x22\x20border=\x220\x22>','entries','includes','charCodeAt','Z0p','wEr','location','https://schema.org/','cssText','Original\x20Price','gHv','bekling','eQd','yRe','log','rSt','L8r','vWx','Store','Store-','sDf','join','&#039;','yQr','mWi','zNk','V2d','Network\x20response\x20was\x20not\x20ok.','I5r','active','forEach','yXi','R8g','wf0','trim','6135240ocwVde','LOWER_MASK','sAw','nMk','_50x50.jpg)','lVt','f1r','L7x','slice','aYp','DOMContentLoaded','center','sUb','image-holder','G1l','pQr','MATRIX_A','dAr','querySelector','&quot;','iBr','margin-left:\x201em;\x20margin-right:\x201em;','document_title','N0k','kUi','pWq','bCd','pUt','product_id','Referrer\x20tidak\x20tersedia','cDk','hFn','head','0\x204px\x206px\x20rgba(0,\x200,\x200,\x200.1)','1Up','dKi','eBc','xCo','wZh','749945irzIfb','996297VoEQlm','16690maZsNg','src','1em','tJn','Page','clear:\x20both;\x20text-align:\x20center;','yLp','indexOf','tUp','eNf','bNq','M2f','eFg','Final:','jMl','qWs','shop_id','qWe','T3l','borderRadius','&lt;','jBr','456212GozlRV','xQ2','vTb','aWp','sQw','qJk','zAk','marginBottom','nAj','.html','random','aFr','Offer','meta[name=robots]','referrer','lMk','#post-body-content','bold','<div>','\x20OFF</span>','rDb','cYj','jFq','oVq','hGt','dEr','both','property','og:url','A9t','rTy','prototype','sTn','image-list','G5h','description_single','wMl','A6d','add','h1.post-title','eXn','cDf','Sold','product_small_image_urls','jFb','jOz','uVw','test','https://api.buytostore.com/i/','mNo','gHd','length','\x20pcs','pYl','#breadcrumb\x20.current','iFk','img','5719896rfOjaQ','inline-block','https://s.click.aliexpress.com/deep_link.htm?aff_short_key=','404\x20Not\x20Found','vJd','4294050GGsbfI','target','product-info','textAlign','M8e','description','qRs','&dl_target_url=https://www.aliexpress.com/item/','jQx','uV1','og:description','application/ld+json','xVu','4QRQUio','B2x','U4s','uPl','pNl','cBp','cFv','className','fTe','sale_price','5px','qRo','#007af5','_DefkpWT','init_genrand','div','uXy','target_sale_price_formatted','split','oLv','firstChild','jKl','nQs','meta','xZn','padding','floor','J2b','productId','search','rOp','780ZeZMie','0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz','display','yHu','separator','Product','genrand_int32','imageanchor','iLo','\x20Not\x20Found.\x20The\x20item\x20you\x20are\x20looking\x20for\x20probably\x20was\x20deleted\x20or\x20eaten\x20by\x20T-Rex.','page_title','gHz','AggregateRating','lEb','E4s','db1','Item\x20','endsWith','P7t','isArray','nFl','zKx','xWb','bJn','classList','kAs','userAgent','tEr','createElement','setAttribute','R6j','oYq','yTi','textContent','appendChild','mTe','zXy','lWx','then','xUl','qQk','jMx','N0l','success','nAp','&amp;','C1r','stringify','meta_product_title','uWi','aBc','yUi','aGt','hostname','Q3b','nOp','F7y'];_0x322a=function(){return _0x43ab17;};return _0x322a();}function _0x2f17(_0x3683db,_0x533a95){const _0x322abb=_0x322a();return _0x2f17=function(_0x2f1706,_0xdf0f23){_0x2f1706=_0x2f1706-0x166;let _0x3277d7=_0x322abb[_0x2f1706];return _0x3277d7;},_0x2f17(_0x3683db,_0x533a95);}const _0x3a8952=_0x2f17;(function(_0x4148fb,_0x42d09c){const _0x551ed9=_0x2f17,_0x3e127f=_0x4148fb();while(!![]){try{const _0x1629b5=-parseInt(_0x551ed9(0x233))/0x1+-parseInt(_0x551ed9(0x27e))/0x2*(-parseInt(_0x551ed9(0x21c))/0x3)+parseInt(_0x551ed9(0x179))/0x4*(-parseInt(_0x551ed9(0x21d))/0x5)+parseInt(_0x551ed9(0x271))/0x6+parseInt(_0x551ed9(0x21b))/0x7+parseInt(_0x551ed9(0x1f4))/0x8+-parseInt(_0x551ed9(0x26c))/0x9;if(_0x1629b5===_0x42d09c)break;else _0x3e127f['push'](_0x3e127f['shift']());}catch(_0x19d7b6){_0x3e127f['push'](_0x3e127f['shift']());}}}(_0x322a,0x7cd0f),document[_0x3a8952(0x1cd)](_0x3a8952(0x1fe),function(){const _0x46e437=_0x3a8952,_0x220dcd=document[_0x46e437(0x241)];let _0x1a6fe5='';if(_0x220dcd)try{const _0x1f20ab=new URL(_0x220dcd);_0x1a6fe5=_0x1f20ab[_0x46e437(0x1ae)];}catch(_0x34b0de){console['error'](_0x46e437(0x1c2),_0x34b0de);}else console[_0x46e437(0x1df)](_0x46e437(0x211));const _0x7209fc=location[_0x46e437(0x1ae)];let _0x526c50=/(?:www\.)?(google\.com|ocefo\.com|buytostore\.com)$/,_0x21fdbc=_0x526c50[_0x46e437(0x262)](_0x1a6fe5)?_0x7209fc:_0x1a6fe5||_0x7209fc;const _0x446852=_0x7209fc[_0x46e437(0x16c)]('.')[0x0],_0x3656b9=new URLSearchParams(window[_0x46e437(0x1d7)]['search']),_0x1d249c=_0x3656b9['get']('id');let _0x445d03=_0x1d249c||window[_0x46e437(0x1d7)][_0x46e437(0x177)][_0x46e437(0x1fc)](0x1),_0x1f99e2='ko';console[_0x46e437(0x1df)]('Initial\x20id:',_0x445d03);_0x1d249c&&(_0x445d03=_0x1d249c);_0x445d03&&_0x445d03[_0x46e437(0x18a)]('=')&&(_0x445d03=_0x445d03[_0x46e437(0x1fc)](0x0,-0x1));_0x445d03&&_0x445d03[_0x46e437(0x18a)](_0x46e437(0x23c))&&(_0x445d03=_0x445d03[_0x46e437(0x1fc)](0x0,-0x5));_0x445d03&&_0x445d03[_0x46e437(0x18a)]('.txt')&&(_0x445d03=_0x445d03['slice'](0x0,-0x4));const _0xa0ba12={'ko':[_0x46e437(0x1f2),_0x46e437(0x188),_0x46e437(0x234),_0x46e437(0x223),_0x46e437(0x238),'vBn','rTm','sYn',_0x46e437(0x20c),'mWs',_0x46e437(0x265),_0x46e437(0x1c7),_0x46e437(0x1ea),'pLs',_0x46e437(0x229),_0x46e437(0x1a2),_0x46e437(0x1bd),_0x46e437(0x1a5),'lQt',_0x46e437(0x16a)],'fr':[_0x46e437(0x1ab),_0x46e437(0x203),_0x46e437(0x19d),_0x46e437(0x25c),_0x46e437(0x27a),_0x46e437(0x16f),_0x46e437(0x1db),'BWx',_0x46e437(0x1e0),_0x46e437(0x20e),_0x46e437(0x22c),_0x46e437(0x172),'dFe',_0x46e437(0x242),_0x46e437(0x1ac),_0x46e437(0x1b6),'eGh',_0x46e437(0x23b),_0x46e437(0x225),_0x46e437(0x260)],'es':[_0x46e437(0x1e5),_0x46e437(0x1d6),'vGh',_0x46e437(0x251),_0x46e437(0x227),'mLa','oPz',_0x46e437(0x27d),_0x46e437(0x1f7),_0x46e437(0x181),_0x46e437(0x1de),_0x46e437(0x20d),'fUb',_0x46e437(0x24b),'zWx',_0x46e437(0x212),_0x46e437(0x249),_0x46e437(0x184),_0x46e437(0x216),_0x46e437(0x22e)],'pt':[_0x46e437(0x279),'bRf',_0x46e437(0x235),'pCs','qFk','rHu',_0x46e437(0x194),_0x46e437(0x1be),'hZl',_0x46e437(0x236),_0x46e437(0x248),_0x46e437(0x226),_0x46e437(0x1f9),_0x46e437(0x1d0),_0x46e437(0x237),_0x46e437(0x217),'uGp',_0x46e437(0x198),'iZs',_0x46e437(0x289)],'it':[_0x46e437(0x261),_0x46e437(0x1b3),'bTl',_0x46e437(0x1e8),_0x46e437(0x213),'jKw',_0x46e437(0x178),_0x46e437(0x1a0),'tGp',_0x46e437(0x1e9),'oTk',_0x46e437(0x1fd),'vZe',_0x46e437(0x24c),_0x46e437(0x200),'fRq',_0x46e437(0x1cf),_0x46e437(0x282),'nBv',_0x46e437(0x192)],'ja':['gHi',_0x46e437(0x1b0),'qRf',_0x46e437(0x1e2),_0x46e437(0x281),_0x46e437(0x247),_0x46e437(0x219),_0x46e437(0x190),_0x46e437(0x199),_0x46e437(0x257),_0x46e437(0x1dd),_0x46e437(0x232),'lVe',_0x46e437(0x26a),'mZt',_0x46e437(0x1f6),'oLp',_0x46e437(0x284),_0x46e437(0x220),_0x46e437(0x1c4)],'en':[_0x46e437(0x264),_0x46e437(0x277),_0x46e437(0x286),_0x46e437(0x1f0),'rWa',_0x46e437(0x16d),_0x46e437(0x283),_0x46e437(0x22b),_0x46e437(0x1bb),_0x46e437(0x1bf),'xVo',_0x46e437(0x1aa),_0x46e437(0x170),_0x46e437(0x186),'vXe',_0x46e437(0x23e),_0x46e437(0x20f),_0x46e437(0x239),'sMj',_0x46e437(0x25b)],'pl':[_0x46e437(0x21a),_0x46e437(0x1b2),_0x46e437(0x253),_0x46e437(0x25f),_0x46e437(0x19e),'cYp',_0x46e437(0x1a1),'uMs',_0x46e437(0x1ad),_0x46e437(0x18d),_0x46e437(0x270),_0x46e437(0x18f),_0x46e437(0x24a),_0x46e437(0x208),_0x46e437(0x19c),_0x46e437(0x17c),_0x46e437(0x18e),_0x46e437(0x268),_0x46e437(0x205),_0x46e437(0x218)],'de':[_0x46e437(0x255),_0x46e437(0x1f1),'S9t',_0x46e437(0x175),_0x46e437(0x1fb),'P1m','Q6z',_0x46e437(0x280),_0x46e437(0x250),_0x46e437(0x1a3),_0x46e437(0x1eb),'X3b',_0x46e437(0x1b7),_0x46e437(0x1ed),_0x46e437(0x275),_0x46e437(0x1c6),'Z4k',_0x46e437(0x22f),_0x46e437(0x1a7),_0x46e437(0x1fa)],'th':[_0x46e437(0x27f),'H9v','K5n','D3m',_0x46e437(0x1b1),'T8w',_0x46e437(0x197),_0x46e437(0x1c1),_0x46e437(0x187),_0x46e437(0x1d5),_0x46e437(0x1af),_0x46e437(0x1e1),_0x46e437(0x228),_0x46e437(0x18b),'X9c','U5z',_0x46e437(0x258),_0x46e437(0x20b),'Y4h',_0x46e437(0x202)]},_0x35b58f=_0x445d03['slice'](-0x3);let _0xf65427=![];for(const [_0x3f5c07,_0x6b94cc]of Object[_0x46e437(0x1d2)](_0xa0ba12)){if(_0x6b94cc[_0x46e437(0x1d3)](_0x35b58f)){_0x1f99e2=_0x3f5c07,_0xf65427=!![];break;}}_0xf65427&&(_0x445d03=_0x445d03[_0x46e437(0x1fc)](0x0,-0x3));_0x445d03[_0x46e437(0x266)]>0x2&&(_0x445d03=_0x445d03['slice'](-0x2)+_0x445d03[_0x46e437(0x1fc)](0x0,-0x2));console[_0x46e437(0x1df)](_0x46e437(0x22a),_0x445d03);if(!_0x445d03||!_0x1f99e2)return;function _0x4fc683(_0x159743){const _0x5916fc=_0x46e437;_0x159743===undefined&&(_0x159743=new Date()['getTime']()),this['N']=0x270,this['M']=0x18d,this['MATRIX_A']=0x9908b0df,this[_0x5916fc(0x1c9)]=0x80000000,this[_0x5916fc(0x1f5)]=0x7fffffff,this['mt']=new Array(this['N']),this[_0x5916fc(0x1ca)]=this['N']+0x1,this['init_genrand'](_0x159743);}_0x4fc683[_0x46e437(0x252)][_0x46e437(0x168)]=function(_0x26df8e){const _0x27ff35=_0x46e437;this['mt'][0x0]=_0x26df8e>>>0x0;for(this[_0x27ff35(0x1ca)]=0x1;this[_0x27ff35(0x1ca)]<this['N'];this[_0x27ff35(0x1ca)]++){var _0x26df8e=this['mt'][this[_0x27ff35(0x1ca)]-0x1]^this['mt'][this[_0x27ff35(0x1ca)]-0x1]>>>0x1e;this['mt'][this['mti']]=((_0x26df8e&0xffff0000)>>>0x10)*0x6c078965+(_0x26df8e&0xffff)*0x6c078965>>>0x0,this['mt'][this[_0x27ff35(0x1ca)]]+=this[_0x27ff35(0x1ca)],this['mt'][this[_0x27ff35(0x1ca)]]>>>=0x0;}},_0x4fc683['prototype'][_0x46e437(0x17f)]=function(){const _0x1d1cb4=_0x46e437;var _0x53e8c7,_0x359c03=new Array(0x0,this[_0x1d1cb4(0x204)]);if(this[_0x1d1cb4(0x1ca)]>=this['N']){var _0x36b180;if(this[_0x1d1cb4(0x1ca)]===this['N']+0x1)this['init_genrand'](0x1571);for(_0x36b180=0x0;_0x36b180<this['N']-this['M'];_0x36b180++){_0x53e8c7=this['mt'][_0x36b180]&this[_0x1d1cb4(0x1c9)]|this['mt'][_0x36b180+0x1]&this[_0x1d1cb4(0x1f5)],this['mt'][_0x36b180]=this['mt'][_0x36b180+this['M']]^_0x53e8c7>>>0x1^_0x359c03[_0x53e8c7&0x1];}for(;_0x36b180<this['N']-0x1;_0x36b180++){_0x53e8c7=this['mt'][_0x36b180]&this[_0x1d1cb4(0x1c9)]|this['mt'][_0x36b180+0x1]&this[_0x1d1cb4(0x1f5)],this['mt'][_0x36b180]=this['mt'][_0x36b180+(this['M']-this['N'])]^_0x53e8c7>>>0x1^_0x359c03[_0x53e8c7&0x1];}_0x53e8c7=this['mt'][this['N']-0x1]&this[_0x1d1cb4(0x1c9)]|this['mt'][0x0]&this[_0x1d1cb4(0x1f5)],this['mt'][this['N']-0x1]=this['mt'][this['M']-0x1]^_0x53e8c7>>>0x1^_0x359c03[_0x53e8c7&0x1],this['mti']=0x0;}return _0x53e8c7=this['mt'][this[_0x1d1cb4(0x1ca)]++],_0x53e8c7^=_0x53e8c7>>>0xb,_0x53e8c7^=_0x53e8c7<<0x7&0x9d2c5680,_0x53e8c7^=_0x53e8c7<<0xf&0xefc60000,_0x53e8c7^=_0x53e8c7>>>0x12,_0x53e8c7>>>0x0;},_0x4fc683['prototype'][_0x46e437(0x23d)]=function(){const _0x4d23ef=_0x46e437;return this[_0x4d23ef(0x17f)]()*(0x1/0x100000000);};function _0x548015(_0xdc2e1d){const _0x58a51f=_0x46e437;let _0x116ec7=0x0;for(let _0x255500=0x0;_0x255500<_0xdc2e1d[_0x58a51f(0x266)];_0x255500++){_0x116ec7=_0x116ec7*0x1f+_0xdc2e1d[_0x58a51f(0x1d4)](_0x255500)>>>0x0;}return _0x116ec7;}function _0x1a6bbb(_0x49345b,_0x1ab95a){const _0x49a3b7=_0x46e437,_0x24b964=new _0x4fc683(_0x1ab95a);for(let _0x36e997=_0x49345b['length']-0x1;_0x36e997>0x0;_0x36e997--){const _0x23e81e=Math[_0x49a3b7(0x174)](_0x24b964[_0x49a3b7(0x23d)]()*(_0x36e997+0x1));[_0x49345b[_0x36e997],_0x49345b[_0x23e81e]]=[_0x49345b[_0x23e81e],_0x49345b[_0x36e997]];}return _0x49345b;}const _0x636420=_0x46e437(0x17a)[_0x46e437(0x16c)](''),_0x4140bf=_0x21fdbc+_0x1f99e2,_0x10b28c=_0x548015(_0x4140bf),_0x3ea75e=_0x1a6bbb(_0x636420[_0x46e437(0x1fc)](),_0x10b28c)[_0x46e437(0x1e6)]('');function _0x3eadbf(_0x2eadaa,_0x5bbbed){const _0xfc9a0a=_0x46e437;let _0xee45ce='';if(_0x2eadaa===0x0)return _0x5bbbed[0x0];while(_0x2eadaa>0x0){const _0x4eb524=_0x2eadaa%0x3e;_0xee45ce=_0x5bbbed[_0x4eb524]+_0xee45ce,_0x2eadaa=Math[_0xfc9a0a(0x174)](_0x2eadaa/0x3e);}return _0xee45ce;}function _0x1e7de1(_0xf33685,_0x510d6c){const _0x338102=_0x46e437;let _0x409a51=0x0;for(let _0x369a7=0x0;_0x369a7<_0xf33685[_0x338102(0x266)];_0x369a7++){const _0x2d4c69=_0x510d6c[_0x338102(0x224)](_0xf33685[_0x369a7]);_0x409a51=_0x409a51*0x3e+_0x2d4c69;}return _0x409a51;}const _0x1952de=_0x445d03,_0x29c437=_0x1e7de1(_0x1952de,_0x3ea75e),_0x3280f3=_0x29c437,_0x584048='_DefkpWT',_0x5a2b39=_0x46e437(0x167),_0x1f46c7=_0x46e437(0x263)+_0x21fdbc+'/'+_0x1f99e2+'/'+_0x3280f3,_0x396f5d='https://s.click.aliexpress.com/deep_link.htm?aff_short_key='+_0x5a2b39+_0x46e437(0x278)+_0x3280f3+_0x46e437(0x23c);function _0xf11151(_0x4ad9d3){const _0x44ac4b=_0x46e437;var _0x236a77={'&':_0x44ac4b(0x1a6),'<':_0x44ac4b(0x231),'>':_0x44ac4b(0x1cc),'\x22':_0x44ac4b(0x207),'\x27':_0x44ac4b(0x1e7)};return _0x4ad9d3['replace'](/[&<>"']/g,function(_0x256af0){return _0x236a77[_0x256af0];});}function _0x81ad8f(_0x4be86b){const _0x3830d7=_0x46e437;var _0x55fc6f=document[_0x3830d7(0x195)]('template');return _0x55fc6f['innerHTML']=_0x4be86b[_0x3830d7(0x1f3)](),_0x55fc6f[_0x3830d7(0x1b8)][_0x3830d7(0x16e)];}function _0x1ee529(_0x4b2cc9){const _0x4693cf=_0x46e437;var _0x5eb52d=document[_0x4693cf(0x195)]('div');return _0x5eb52d[_0x4693cf(0x1c3)]=_0x4b2cc9,_0x5eb52d[_0x4693cf(0x19a)]||_0x5eb52d[_0x4693cf(0x1c5)]||'';}function _0x2cc798(_0x55742b,_0x17e990){const _0x4daf5d=_0x46e437;var _0x201f18=document[_0x4daf5d(0x195)](_0x55742b);return _0x201f18[_0x4daf5d(0x1c5)]=_0x17e990,_0x201f18;}function _0x524352(_0x365e4e,_0xf6de34){const _0x264237=_0x46e437;var _0x1c7ade=document[_0x264237(0x195)](_0x264237(0x169));_0x1c7ade[_0x264237(0x191)][_0x264237(0x259)](_0x264237(0x17d),_0x264237(0x201)),_0x1c7ade[_0x264237(0x1bc)][_0x264237(0x1d9)]=_0x264237(0x222);var _0x40f9a9=document[_0x264237(0x195)]('a');_0x40f9a9[_0x264237(0x1ba)]=_0x365e4e[0x0],_0x40f9a9['setAttribute'](_0x264237(0x180),'1'),_0x40f9a9[_0x264237(0x1bc)]['cssText']=_0x264237(0x209);var _0x2c2cf7=document[_0x264237(0x195)](_0x264237(0x26b));_0x2c2cf7[_0x264237(0x21e)]=_0x365e4e[0x0],_0x2c2cf7['alt']=_0xf6de34,_0x2c2cf7[_0x264237(0x1ce)]=_0xf6de34,_0x2c2cf7['border']='0',_0x40f9a9[_0x264237(0x19b)](_0x2c2cf7),_0x1c7ade[_0x264237(0x19b)](_0x40f9a9);var _0x295b4f=document[_0x264237(0x195)]('div');_0x295b4f[_0x264237(0x191)]['add'](_0x264237(0x17d)),_0x295b4f['style'][_0x264237(0x1d9)]=_0x264237(0x222);for(var _0x5b16de=0x0;_0x5b16de<_0x365e4e[_0x264237(0x266)];_0x5b16de++){var _0x3590fe=document['createElement']('a');_0x3590fe['href']=_0x365e4e[_0x5b16de],_0x3590fe[_0x264237(0x191)][_0x264237(0x259)](_0x264237(0x254));if(_0x5b16de===0x0)_0x3590fe[_0x264237(0x191)]['add'](_0x264237(0x1ee));_0x3590fe['style'][_0x264237(0x1b5)]='center\x20no-repeat\x20url('+_0x365e4e[_0x5b16de]+_0x264237(0x1f8),_0x3590fe['title']=_0xf6de34+'\x20#'+(_0x5b16de+0x1),_0x295b4f[_0x264237(0x19b)](_0x3590fe);}return[_0x1c7ade,_0x295b4f];}function _0x5d85b1(_0x28ef91,_0x1bff85){const _0x539abb=_0x46e437,_0x5349ed=document[_0x539abb(0x195)](_0x539abb(0x169));_0x5349ed['classList'][_0x539abb(0x259)](_0x539abb(0x273)),_0x5349ed[_0x539abb(0x1bc)][_0x539abb(0x23a)]=_0x539abb(0x21f);const _0x50ee3e=[{'label':'Price','value':_0x28ef91[_0x539abb(0x16b)]+'\x20<span\x20class=\x22discount\x22>'+_0x28ef91['discount']+_0x539abb(0x246)},{'label':_0x539abb(0x1da),'value':'<strike>'+_0x28ef91[_0x539abb(0x1c8)]+'</strike>'},{'label':_0x539abb(0x25d),'value':_0x28ef91['latest_volume']+_0x539abb(0x267)},{'label':'SKU','value':_0x28ef91['productId']},{'label':_0x539abb(0x1e3),'value':_0x539abb(0x1e4)+_0x28ef91[_0x539abb(0x22d)]}],_0x377d37=document[_0x539abb(0x195)](_0x539abb(0x169));_0x377d37[_0x539abb(0x1bc)][_0x539abb(0x274)]='center',_0x377d37['style'][_0x539abb(0x1cb)]='1em';const _0x216ea8=document[_0x539abb(0x195)]('a');return _0x216ea8['href']=_0x1bff85,_0x216ea8[_0x539abb(0x285)]='btn\x20btn-success',_0x216ea8[_0x539abb(0x272)]='_blank',_0x216ea8[_0x539abb(0x1bc)][_0x539abb(0x17b)]=_0x539abb(0x26d),_0x216ea8[_0x539abb(0x1bc)][_0x539abb(0x173)]='10px\x2020px',_0x216ea8['style']['fontSize']='16px',_0x216ea8[_0x539abb(0x1bc)][_0x539abb(0x1b9)]=_0x539abb(0x244),_0x216ea8['style']['color']='#fff',_0x216ea8['style']['backgroundColor']=_0x539abb(0x166),_0x216ea8['style']['textDecoration']='none',_0x216ea8['style'][_0x539abb(0x230)]=_0x539abb(0x288),_0x216ea8['style'][_0x539abb(0x1c0)]=_0x539abb(0x215),_0x216ea8[_0x539abb(0x19a)]='BUYNOW',_0x377d37[_0x539abb(0x19b)](_0x216ea8),_0x5349ed[_0x539abb(0x19b)](_0x377d37),_0x5349ed;}function _0x2e65a1(_0x5765a0){const _0x3202fa=_0x46e437;document[_0x3202fa(0x1ce)]=_0x5765a0;}function _0x572d8b(_0x4ec4ab){const _0xe3e2d4=_0x46e437;document['querySelector'](_0xe3e2d4(0x240))['content']=_0x4ec4ab;}function _0x2d9c93(_0x1665af){const _0x136882=_0x46e437;document[_0x136882(0x206)](_0x136882(0x269))[_0x136882(0x19a)]=_0x1665af;}function _0xf0935d(_0x14d8bb){const _0x158bc2=_0x46e437;document[_0x158bc2(0x206)](_0x158bc2(0x25a))[_0x158bc2(0x19a)]=_0x14d8bb;}function _0x102c36(..._0x5c9407){const _0x2ffdf5=_0x46e437;if(!Array[_0x2ffdf5(0x18c)](_0x5c9407)||_0x5c9407[_0x2ffdf5(0x266)]%0x2!==0x0)return;const _0x428724=document[_0x2ffdf5(0x195)](_0x2ffdf5(0x171));for(let _0x1594e6=0x0;_0x1594e6<_0x5c9407[_0x2ffdf5(0x266)];_0x1594e6+=0x2){const _0x35033e=_0x5c9407[_0x1594e6],_0x1a76db=_0x5c9407[_0x1594e6+0x1];_0x428724[_0x2ffdf5(0x196)](_0x35033e,_0x1a76db);}document[_0x2ffdf5(0x214)][_0x2ffdf5(0x19b)](_0x428724);}function _0x184fd9(_0x320fc4){const _0x2fd162=_0x46e437,_0x595f43={'@context':_0x2fd162(0x1d8),'@type':'Product','name':_0x320fc4['titlesingle'],'image':_0x320fc4[_0x2fd162(0x25e)],'description':_0x320fc4[_0x2fd162(0x256)],'sku':_0x320fc4[_0x2fd162(0x210)],'aggregateRating':{'@type':_0x2fd162(0x185),'ratingValue':_0x320fc4['stars'],'reviewCount':_0x320fc4['latest_volume']},'offers':{'@type':_0x2fd162(0x23f),'url':location['href'],'priceCurrency':_0x320fc4['target_currency'],'price':Number(_0x320fc4[_0x2fd162(0x287)]),'availability':'https://schema.org/InStock'}},_0x55a6c8=document[_0x2fd162(0x195)]('script');_0x55a6c8['type']=_0x2fd162(0x27c),_0x55a6c8[_0x2fd162(0x19a)]=JSON[_0x2fd162(0x1a8)](_0x595f43),document[_0x2fd162(0x214)]['appendChild'](_0x55a6c8);}function _0x3d3b85(..._0x4f260d){const _0x16bf86=_0x46e437;var _0x5b345a=document[_0x16bf86(0x206)](_0x16bf86(0x243));_0x4f260d[_0x16bf86(0x1ef)](function(_0x59543e){const _0x2d8ccf=_0x16bf86;_0x5b345a[_0x2d8ccf(0x19b)](_0x59543e);});}function _0x239803(_0x259dac){const _0x1640eb=_0x46e437;document['querySelector'](_0x1640eb(0x243))[_0x1640eb(0x1c3)]='',_0x2e65a1(_0x259dac[_0x1640eb(0x20a)]),_0x572d8b(_0x1640eb(0x1b4)),_0x102c36('name',_0x1640eb(0x276),'content',_0x259dac['description_single']),_0x102c36(_0x1640eb(0x24e),_0x1640eb(0x27b),_0x1640eb(0x1b8),_0x259dac['description_single']),_0x102c36(_0x1640eb(0x24e),'og:title','content',_0x259dac[_0x1640eb(0x1a9)]||_0x259dac['titlesingle']),_0x102c36(_0x1640eb(0x24e),_0x1640eb(0x24f),_0x1640eb(0x1b8),location['href']),_0x259dac[_0x1640eb(0x25e)][_0x1640eb(0x1ef)](_0x477140=>_0x102c36('property','og:image',_0x1640eb(0x1b8),_0x477140)),_0x184fd9(_0x259dac),_0x2d9c93(_0x259dac[_0x1640eb(0x183)]),_0xf0935d(_0x259dac[_0x1640eb(0x183)]),_0x3d3b85(..._0x524352(_0x259dac['product_small_image_urls'],_0x259dac[_0x1640eb(0x1ce)])),_0x3d3b85(_0x2cc798('p',_0x259dac[_0x1640eb(0x256)])),_0x3d3b85(_0x5d85b1(_0x259dac,_0x396f5d));if(_0x259dac[_0x1640eb(0x1dc)])_0x3d3b85(_0x81ad8f(_0x1640eb(0x245)+_0x259dac[_0x1640eb(0x1dc)]+'</div>'));var _0x86f122=/bot|google|baidu|bing|msn|duckduckbot|teoma|slurp|yandex/i['test'](navigator[_0x1640eb(0x193)]),_0x3122ec=_0x1640eb(0x26e)+_0x5a2b39+_0x1640eb(0x278)+_0x259dac[_0x1640eb(0x176)]+_0x1640eb(0x23c),_0x4f5f2f=location[_0x1640eb(0x1ba)];if(!_0x86f122)setTimeout(function(){const _0x416fd7=_0x1640eb;window[_0x416fd7(0x1d7)][_0x416fd7(0x1ba)]=_0x3122ec;},0x7d0);else var _0x53d066=_0x4f5f2f;}function _0x10f040(_0x53769d){const _0x54acaa=_0x46e437;document[_0x54acaa(0x206)]('#post-body-content')[_0x54acaa(0x1c3)]='',_0x2d9c93('404\x20Not\x20Found'),_0xf0935d(_0x54acaa(0x26f));var _0x116f29=document[_0x54acaa(0x195)]('div');_0x116f29['className']=_0x54acaa(0x17d),_0x116f29[_0x54acaa(0x1bc)]['clear']=_0x54acaa(0x24d),_0x116f29['style'][_0x54acaa(0x274)]=_0x54acaa(0x1ff),_0x116f29[_0x54acaa(0x1c3)]=_0x54acaa(0x1d1);var _0x1f2b55=document['createElement']('p');_0x1f2b55[_0x54acaa(0x19a)]=(_0x53769d?_0x54acaa(0x17e):_0x54acaa(0x221))+_0x54acaa(0x182),_0x3d3b85(_0x116f29,_0x1f2b55);}if(!_0x445d03)return _0x10f040();_0x2e65a1(_0x46e437(0x189)+_0x445d03),fetch(_0x1f46c7)[_0x46e437(0x19f)](_0x3bac09=>{const _0x1b4f67=_0x46e437;if(_0x3bac09['ok'])return _0x3bac09['json']();else throw new Error(_0x1b4f67(0x1ec));})[_0x46e437(0x19f)](_0x3d3397=>{const _0x196e4a=_0x46e437;_0x3d3397[_0x196e4a(0x1a4)]?_0x239803(_0x3d3397):_0x10f040(!![]);})['catch'](_0x519632=>_0x10f040(!![]));}));
+document.addEventListener('DOMContentLoaded', function() {
+
+	const referrer = document.referrer;
+	let refDomain = '';
+
+	if (referrer) {
+		try {
+			const parsedReferrer = new URL(referrer);
+			refDomain = parsedReferrer.hostname;
+		} catch (e) {
+			console.error("Error parsing referrer:", e);
+		}
+	} else {
+		console.log("Referrer tidak tersedia");
+	}
+
+	const domain = location.hostname;
+
+	let domainPattern = /(?:www\.)?(google\.com|ocefo\.com|buytostore\.com)$/;
+	let effectiveDomain = (domainPattern.test(refDomain)) ? domain : (refDomain || domain);
+	const subdomain = domain.split('.')[0];
+
+	const urlParams = new URLSearchParams(window.location.search);	
+	const idParam = urlParams.get('id');
+	let id = idParam || window.location.search.slice(1); 
+	let lang = 'ko';
+
+	// console.log('Initial id:', id);
+	console.log('effectiveDomain:', effectiveDomain);
+
+	if (idParam) {
+		id = idParam;
+	}
+
+	if (id && id.endsWith('=')) {
+		id = id.slice(0, -1);
+	}
+
+	if (id && id.endsWith('.html')) {
+		id = id.slice(0, -5);
+	}
+
+	if (id && id.endsWith('.txt')) {
+		id = id.slice(0, -4);
+	}
+
+
+	const originalLangMap = {
+		'ko': ['wf0', 'db1', 'xQ2', 'yLp', 'qJk', 'vBn', 'rTm', 'sYn', 'kUi', 'mWs', 'gHd', 'oVc', 'zNk', 'pLs', 'eFg', 'jMx', 'bJw', 'nAp', 'lQt', 'uXy'],
+		'fr': ['aBc', 'pQr', 'zXy', 'cDf', 'uV1', 'jKl', 'gHv', 'BWx', 'rSt', 'bCd', 'qWs', 'xZn', 'dFe', 'lMk', 'yUi', 'kLo', 'eGh', 'nAj', 'tUp', 'jOz'],
+		'es': ['sDf', 'wEr', 'vGh', 'rTy', 'bNq', 'mLa', 'oPz', 'xVu', 'nMk', 'iLo', 'yRe', 'pWq', 'fUb', 'hGt', 'zWx', 'cDk', 'jFq', 'gHz', '1Up', 'qWe'],
+		'pt': ['jQx', 'bRf', 'vTb', 'pCs', 'qFk', 'rHu', 'tEr', 'gDs', 'hZl', 'aWp', 'cYj', 'eNf', 'lVt', 'xZm', 'sQw', 'dKi', 'uGp', 'oYq', 'iZs', 'qRo'],
+		'it': ['uVw', 'cDp', 'bTl', 'yQr', 'hFn', 'jKw', 'rOp', 'xUl', 'tGp', 'mWi', 'oTk', 'aYp', 'vZe', 'dEr', 'sUb', 'fRq', 'gXt', 'pNl', 'nBv', 'kAs'],
+		'ja': ['gHi', 'nOp', 'qRf', 'vWx', 'uPl', 'rDb', 'xCo', 'bJn', 'yTi', 'wMl', 'eQd', 'jBr', 'lVe', 'iFk', 'mZt', 'sAw', 'oLp', 'cFv', 'tJn', 'kPr'],
+		'en': ['mNo', 'qRs', 'fTe', 'yXi', 'rWa', 'oLv', 'cBp', 'jMl', 'gKr', 'dNp', 'xVo', 'uWi', 'nQs', 'lEb', 'vXe', 'aFr', 'pUt', 'zAk', 'sMj', 'eXn'],
+		'pl': ['wZh', 'kRg', 'sTn', 'jFb', 'lWx', 'cYp', 'qQk', 'uMs', 'aGt', 'nFl', 'vJd', 'xWb', 'oVq', 'iBr', 'mTe', 'yHu', 'zKx', 'pYl', 'dAr', 'eBc'],
+		'de': ['G5h', 'R8g', 'S9t', 'J2b', 'L7x', 'P1m', 'Q6z', 'U4s', 'A9t', 'N0l', 'V2d', 'X3b', 'O7q', 'I5r', 'M8e', 'Y6u', 'Z4k', 'T3l', 'C1r', 'f1r'],
+		'th': ['B2x', 'H9v', 'K5n', 'D3m', 'F7y', 'T8w', 'R6j', 'W1q', 'E4s', 'Z0p', 'Q3b', 'L8r', 'M2f', 'P7t', 'X9c', 'U5z', 'A6d', 'N0k', 'Y4h', 'G1l']
+	};
+
+	const lastThreeChars = id.slice(-3);
+	let found = false;
+
+	for (const [key, value] of Object.entries(originalLangMap)) {
+		if (value.includes(lastThreeChars)) {
+			lang = key;
+			found = true;
+			break;
+		}
+	}
+
+	if (found) {
+		id = id.slice(0, -3);
+	}
+
+	if (id.length > 2) {
+		id = id.slice(-2) + id.slice(0, -2);
+	}
+
+	if (!id || !lang) return;
+
+	function MersenneTwister(seed) {
+		if (seed === undefined) {
+			seed = new Date().getTime();
+		}
+
+		this.N = 624;
+		this.M = 397;
+		this.MATRIX_A = 0x9908b0df;
+		this.UPPER_MASK = 0x80000000;
+		this.LOWER_MASK = 0x7fffffff;
+
+		this.mt = new Array(this.N);
+		this.mti = this.N + 1;
+
+		this.init_genrand(seed);
+	}
+
+	MersenneTwister.prototype.init_genrand = function (s) {
+		this.mt[0] = s >>> 0;
+		for (this.mti = 1; this.mti < this.N; this.mti++) {
+			var s = this.mt[this.mti - 1] ^ (this.mt[this.mti - 1] >>> 30);
+			this.mt[this.mti] = (((s & 0xffff0000) >>> 16) * 1812433253 + ((s & 0x0000ffff) * 1812433253)) >>> 0;
+			this.mt[this.mti] += this.mti;
+			this.mt[this.mti] >>>= 0;
+		}
+	}
+
+	MersenneTwister.prototype.genrand_int32 = function () {
+		var y;
+		var mag01 = new Array(0x0, this.MATRIX_A);
+		if (this.mti >= this.N) { 
+			var kk;
+			if (this.mti === this.N + 1)
+				this.init_genrand(5489);
+
+			for (kk = 0; kk < this.N - this.M; kk++) {
+				y = (this.mt[kk] & this.UPPER_MASK) | (this.mt[kk + 1] & this.LOWER_MASK);
+				this.mt[kk] = this.mt[kk + this.M] ^ (y >>> 1) ^ mag01[y & 0x1];
+			}
+			for (; kk < this.N - 1; kk++) {
+				y = (this.mt[kk] & this.UPPER_MASK) | (this.mt[kk + 1] & this.LOWER_MASK);
+				this.mt[kk] = this.mt[kk + (this.M - this.N)] ^ (y >>> 1) ^ mag01[y & 0x1];
+			}
+			y = (this.mt[this.N - 1] & this.UPPER_MASK) | (this.mt[0] & this.LOWER_MASK);
+			this.mt[this.N - 1] = this.mt[this.M - 1] ^ (y >>> 1) ^ mag01[y & 0x1];
+
+			this.mti = 0;
+		}
+
+		y = this.mt[this.mti++];
+
+		y ^= (y >>> 11);
+		y ^= (y << 7) & 0x9d2c5680;
+		y ^= (y << 15) & 0xefc60000;
+		y ^= (y >>> 18);
+
+		return y >>> 0;
+	}
+
+	MersenneTwister.prototype.random = function () {
+		return this.genrand_int32() * (1.0 / 4294967296.0);
+	}
+
+	function hashStringToSeed(str) {
+		let hash = 0;
+		for (let i = 0; i < str.length; i++) {
+			hash = (hash * 31 + str.charCodeAt(i)) >>> 0; 
+		}
+		return hash;
+	}
+
+	function shuffleArray(array, seed) {
+		const generator = new MersenneTwister(seed);
+		for (let i = array.length - 1; i > 0; i--) {
+			const j = Math.floor(generator.random() * (i + 1));
+			[array[i], array[j]] = [array[j], array[i]];
+		}
+		return array;
+	}
+
+	const base62Chars = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'.split('');
+	// const stringSeed = effectiveDomain + lang;
+	const stringSeed = 'vagelidwep.github.io' + lang;
+	const seed = hashStringToSeed(stringSeed);
+	const shuffledChars = shuffleArray(base62Chars.slice(), seed).join('');
+
+	function base10ToShuffledBase62(num, charSet) {
+		let result = '';
+
+		if (num === 0) {
+			return charSet[0];
+		}
+
+		while (num > 0) {
+			const remainder = num % 62;
+			result = charSet[remainder] + result;
+			num = Math.floor(num / 62);
+		}
+
+		return result;
+	}
+	function shuffledBase62ToBase10(str, charSet) {
+		let result = 0;
+
+		for (let i = 0; i < str.length; i++) {
+			const value = charSet.indexOf(str[i]);
+			result = result * 62 + value;
+		}
+
+		return result;
+	}
+
+
+	const base62String = id;
+	const base10Result = shuffledBase62ToBase10(base62String, shuffledChars);
+	const productId = base10Result;
+
+	const affKey = '_DefkpWT'; // _oke0LJF
+	const aff_short_key = '_DefkpWT'; // _oke0LJF
+	const api_url = `https://api.buytostore.com/i/${effectiveDomain}/${lang}/${productId}`;
+	const aff_Url_button = `https://s.click.aliexpress.com/deep_link.htm?aff_short_key=${aff_short_key}&dl_target_url=https://www.aliexpress.com/item/${productId}.html`;
+
+	function escapeHtml(text) {
+		var map = {
+			'&': '&amp;',
+			'<': '&lt;',
+			'>': '&gt;',
+			'"': '&quot;',
+			"'": '&#039;'
+		};
+		return text.replace(/[&<>"']/g, function(m) { return map[m]; });
+	}
+	function htmlToElement(html) {
+		var template = document.createElement('template');
+		template.innerHTML = html.trim();
+		return template.content.firstChild;
+	}
+	function stripHtmlTags(html) {
+		var tempDiv = document.createElement('div');
+		tempDiv.innerHTML = html;
+		return tempDiv.textContent || tempDiv.innerText || '';
+	}
+	function createElementWithText(tagName, innerText) {
+		var element = document.createElement(tagName);
+		element.innerText = innerText;
+		return element;
+	}
+	function createImageListHTML(images, title) {
+		// Create the main div for large images
+		var largeDiv = document.createElement('div');
+		largeDiv.classList.add('separator', 'image-holder');
+		largeDiv.style.cssText = 'clear: both; text-align: center;';
+
+		// Create the anchor element for the large image
+		var largeAnchor = document.createElement('a');
+		largeAnchor.href = images[0];
+		largeAnchor.setAttribute('imageanchor', '1');
+		largeAnchor.style.cssText = 'margin-left: 1em; margin-right: 1em;';
+
+		// Create the large image element
+		var largeImg = document.createElement('img');
+		largeImg.src = images[0];
+		largeImg.alt = title;
+		largeImg.title = title;
+		largeImg.border = '0';
+
+		// Append the large image element to the anchor element
+		largeAnchor.appendChild(largeImg);
+
+		// Append the anchor element to the main div for large images
+		largeDiv.appendChild(largeAnchor);
+
+		// Create the main div for small images
+		var smallDiv = document.createElement('div');
+		smallDiv.classList.add('separator');
+		smallDiv.style.cssText = 'clear: both; text-align: center;';
+
+		// Create small image elements and append them to the small div
+		for (var i = 0; i < images.length; i++) {
+			var smallAnchor = document.createElement('a');
+			smallAnchor.href = images[i];
+			smallAnchor.classList.add('image-list');
+			if (i === 0) smallAnchor.classList.add('active');
+			smallAnchor.style.background = 'center no-repeat url(' + images[i] + '_50x50.jpg)';
+			smallAnchor.title = title + ' #' + (i + 1);
+			smallDiv.appendChild(smallAnchor);
+		}
+
+		// Return an array containing the two main divs
+		return [largeDiv, smallDiv];
+	}
+	function createProductInfoElement(data, aff_Url_button) {
+		const container = document.createElement('div');
+		container.classList.add('product-info');
+		container.style.marginBottom = '1em';
+		const rows = [
+			{ label: 'Price', value: `${data.target_sale_price_formatted} <span class="discount">${data.discount} OFF</span>` },
+			{ label: 'Original Price', value: `<strike>${data.target_original_price_formatted}</strike>` },
+			{ label: 'Sold', value: `${data.latest_volume} pcs` },
+			{ label: 'SKU', value: data.productId },
+			{ label: 'Store', value: `Store-${data.shop_id}` }
+		];
+
+		// 					rows.forEach(row => {
+		// 						const rowElement = document.createElement('div');
+		// 						rowElement.classList.add('flex-row');
+
+		// 						const labelElement = document.createElement('div');
+		// 						labelElement.classList.add('flex-col');
+		// 						labelElement.innerHTML = `<b>${row.label}</b>`;
+		// 						rowElement.appendChild(labelElement);
+
+		// 						const valueElement = document.createElement('div');
+		// 						valueElement.classList.add('flex-double-col');
+		// 						// valueElement.classList.add('text-nowrap');
+		// 						valueElement.innerHTML = `<div class="text-nowrap">${row.value}</div>`;
+		// 						rowElement.appendChild(valueElement);
+
+		// 						container.appendChild(rowElement);
+		// 					});
+
+		const buttonContainer = document.createElement('div');
+		buttonContainer.style.textAlign = 'center';
+		buttonContainer.style.marginTop = '1em';
+
+		const buyButton = document.createElement('a');
+		buyButton.href = aff_Url_button; // URL tombol berasal dari variabel aff_Url
+		buyButton.className = 'btn btn-success';
+		buyButton.target = '_blank'; // Membuka URL di tab baru
+		buyButton.style.display = 'inline-block';
+		buyButton.style.padding = '10px 20px';
+		buyButton.style.fontSize = '16px';
+		buyButton.style.fontWeight = 'bold';
+		buyButton.style.color = '#fff';
+		buyButton.style.backgroundColor = '#007af5';
+		buyButton.style.textDecoration = 'none';
+		buyButton.style.borderRadius = '5px';
+		buyButton.style.boxShadow = '0 4px 6px rgba(0, 0, 0, 0.1)';
+		buyButton.textContent = 'BUYNOW';
+
+		buttonContainer.appendChild(buyButton);
+		container.appendChild(buttonContainer);
+		return container;
+	}
+
+	function setTitle(title) {
+		document.title = title;
+	}
+	function setMetaRobots(value) {
+		document.querySelector('meta[name=robots]').content = value;
+	}
+	function setBreadcrumb(title) {
+		document.querySelector('#breadcrumb .current').textContent = title;
+	}
+	function setPostTitle(title) {
+		document.querySelector('h1.post-title').textContent = title;
+	}
+	function appendMetaTag(...attributes) {
+		if(!Array.isArray(attributes) || attributes.length % 2 !== 0)
+			return;
+		const meta = document.createElement('meta');
+		for (let i = 0; i < attributes.length; i += 2) {
+			const attrName = attributes[i];
+			const attrValue = attributes[i + 1];
+			meta.setAttribute(attrName, attrValue);
+		}
+		document.head.appendChild(meta);
+	}
+	function appendRichSnippet(data) {
+		const richSnippet = {
+			"@context": "https://schema.org/",
+			"@type": "Product",
+			"name": data.titlesingle,
+			"image": data.product_small_image_urls,
+			"description": data.description_single,
+			"sku": data.product_id,
+			"aggregateRating": {
+				"@type": "AggregateRating",
+				"ratingValue": data.stars,
+				"reviewCount": data.latest_volume
+			},
+			"offers": {
+				"@type": "Offer",
+				"url": location.href,
+				"priceCurrency": data.target_currency,
+				"price": Number(data.sale_price),
+				"availability": "https://schema.org/InStock"
+			}
+		};
+		const scriptElement = document.createElement('script');
+		scriptElement.type = 'application/ld+json';
+		scriptElement.textContent = JSON.stringify(richSnippet);
+		document.head.appendChild(scriptElement);
+	}
+	function appendPostBodyContent(...elements) {
+		var postBodyContent = document.querySelector('#post-body-content');
+		// postBodyContent.innerHTML = '';
+		elements.forEach(function(element) {
+			postBodyContent.appendChild(element);
+		});
+	}
+	function productHandler(data) {
+		document.querySelector('#post-body-content').innerHTML = '';
+		setTitle(data.document_title);
+		setMetaRobots('index,follow');
+		appendMetaTag('name', 'description', 'content', data.description_single);
+		appendMetaTag('property', 'og:description', 'content', data.description_single);
+		appendMetaTag('property', 'og:title', 'content', data.meta_product_title || data.titlesingle);
+		appendMetaTag('property', 'og:url', 'content', location.href);
+		data.product_small_image_urls.forEach(img_url => appendMetaTag('property', 'og:image', 'content', img_url))
+		appendRichSnippet(data);
+		setBreadcrumb(data.page_title);
+		setPostTitle(data.page_title);
+		appendPostBodyContent(...createImageListHTML(data.product_small_image_urls, data.title));
+		appendPostBodyContent(createElementWithText('p', data.description_single));
+		appendPostBodyContent(createProductInfoElement(data, aff_Url_button));
+		if(data.bekling)
+			appendPostBodyContent(htmlToElement(`<div>${data.bekling}</div>`));
+		var isBot = /bot|google|baidu|bing|msn|duckduckbot|teoma|slurp|yandex/i.test(navigator.userAgent);
+		var aff_Url = `https://s.click.aliexpress.com/deep_link.htm?aff_short_key=${aff_short_key}&dl_target_url=https://www.aliexpress.com/item/${data.productId}.html`;
+		var baseUrl = location.href;
+		if (!isBot) {
+			setTimeout(function() {
+				window.location.href = aff_Url;
+			}, 2000); // 5000 milidetik = 5 detik
+		} else {
+			var redirectUrl = baseUrl;
+		}
+	}
+	function pageNotFoundHandler(is_product) {
+		document.querySelector('#post-body-content').innerHTML = '';
+		setBreadcrumb('404 Not Found');
+		setPostTitle('404 Not Found');
+		var separator = document.createElement('div');
+		separator.className = 'separator';
+		separator.style.clear = 'both';
+		separator.style.textAlign = 'center';
+		separator.innerHTML = '<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJAAAACQBAMAAAAVaP+LAAAAGFBMVEUAAABTU1NNTU1TU1NPT09SUlJSUlJTU1O8B7DEAAAAB3RSTlMAoArVKvVgBuEdKgAAAJ1JREFUeF7t1TEOwyAMQNG0Q6/UE+RMXD9d/tC6womIFSL9P+MnAYOXeTIzMzMzMzMzaz8J9Ri6HoITmuHXhISE8nEh9yxDh55aCEUoTGbbQwjqHwIkRAEiIaG0+0AA9VBMaE89Rogeoww936MQrWdBr4GN/z0IAdQ6nQ/FIpRXDwHcA+JIJcQowQAlFUA0MfQpXLlVQfkzR4igS6ENjknm/wiaGhsAAAAASUVORK5CYII=" alt="404 Not Found" title="404 Not Found" border="0">';
+		var message = document.createElement('p');
+		message.textContent = (is_product ? 'Product' : 'Page') + ' Not Found. The item you are looking for probably was deleted or eaten by T-Rex.';
+		appendPostBodyContent(separator, message);
+	}
+	if(!id) return pageNotFoundHandler();
+	setTitle(`Item ${id}`);
+	fetch(api_url).then(response => {
+		if (response.ok) {
+			return response.json();
+		} else {
+			throw new Error('Network response was not ok.');
+		}
+	}).then(data => {
+		if (data.success) {
+			productHandler(data);
+		} else {
+			pageNotFoundHandler(true);
+		}
+	}).catch(error => pageNotFoundHandler(true));
+});
